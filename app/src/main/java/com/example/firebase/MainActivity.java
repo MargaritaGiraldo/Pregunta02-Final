@@ -1,4 +1,4 @@
-package com.example.firebase;
+package com.example.pregunta2;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
